@@ -3,7 +3,7 @@
 ![Badge](https://img.shields.io/github/followers/GustavoLSantos?style=social"/)
 
 <p align="center">
-  <img src="https://github.com/GustavoLSantos/OAuth2/blob/main/ezgif.com-gif-maker.gif" />
+  <img src="https://github.com/GustavoLSantos/OAuth2/blob/main/gif.gif/>
 </p>
 
 <h4 align="center"> 
@@ -13,7 +13,7 @@
 ### Sobre
  - O projeto do OAuth2 foi feito com propósitos educativos, para estudar o funcionamento deste protocolo de autorização. O projeto foi feito em React Native + Expo e rodado diretamente do meu celular.
 
-![2](https://github.com/GustavoLSantos/OAuth2/blob/main/WhatsApp%20Image%202021-11-08%20at%2011.38.22%20PM.jpeg)
+![2](https://github.com/GustavoLSantos/OAuth2/blob/main/1.jpeg)
 
 
 ### Tecnologias
@@ -24,7 +24,7 @@ As seguintes ferramentas foram usadas na construção do projeto foram:
 - [React Native](https://reactnative.dev)
 - [Expo](https://expo.dev)
 
-![1](https://github.com/GustavoLSantos/OAuth2/blob/main/WhatsApp%20Image%202021-11-08%20at%2011.38.23%20PM.jpeg)
+![1](https://github.com/GustavoLSantos/OAuth2/blob/main/2.jpeg)
 
 
 ### Instalando
